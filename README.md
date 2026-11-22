@@ -1,6 +1,6 @@
 <!-- Custom Cover Banner -->
 <div align="center">
-  <img width="100%" src="./banner.png" alt="Anish Patil — AI x Backend x Scalable Systems" />
+  <img width="100%" src="./banner.jpg" alt="Anish Patil — AI x Backend x Scalable Systems" />
 </div>
 
 <br/>
